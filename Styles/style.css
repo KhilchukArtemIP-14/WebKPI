@@ -17,10 +17,6 @@ header{
 	background-color: rgb(156, 214, 255);
 }
 
-footer{
-	left: 0;
-	bottom: 0;
-}
 
 h2{
 	
@@ -85,9 +81,8 @@ h1 {
 
 footer{
 	position: absolute;
-	bottom: 0px;
-	right:0px;
-	
+	left: 0;
+	bottom: 0;
 	width: 83.75%;
 	height: 28.5%;
 	background-color:  rgb(247, 255, 156);
